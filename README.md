@@ -121,17 +121,17 @@ This lab demonstrates the necessary changes I make to configure osTicket so it c
 
 </p>
 <br />
-
+* Inputted "Full Name", "Full Email", & "Username"
 <p>
 <img src="https://imgur.com/qqSZQlo.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
-
+* Assigned "SysAdmin" & "Supreme Admin"
   <p>
 <img src="https://imgur.com/jABMfYE.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
-
+* Assigned to "Online Banking" Department
  <p>
 <img src="https://imgur.com/ltsbLNP.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
