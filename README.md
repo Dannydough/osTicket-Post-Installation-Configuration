@@ -42,27 +42,27 @@ The first step is to create a new role called Supreme Admin. For this lab, I wil
 
 </p>
 <br />
-
+*Role Name: Supreme Admin
 <p>
 <img src="https://imgur.com/xgna570.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
-
+*Give Supreme Admin Role all of the tickets permissions
   <p>
 <img src="https://imgur.com/dEHltzr.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
-
+*Give Supreme Admin Role all of the tasks permissions
   <p>
 <img src="https://imgur.com/4HJhL0E.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
-
+*Give Supreme Admin Role all of the knowledgebase permissions
   <p>
 <img src="https://imgur.com/jO8MfHR.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
-
+*Final product of "Supreme Admin"
   <p>
 <img src="https://imgur.com/UeDqYQh.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
