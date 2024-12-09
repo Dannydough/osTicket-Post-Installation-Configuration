@@ -28,6 +28,8 @@ This lab demonstrates the necessary changes I make to configure osTicket so it c
 </p>
 <p>
 
+
+
 <p>
   **Admin Panel**
 <img src="https://imgur.com/042hfd8.png" height="80%" width="80%" alt="Configuration Steps"/>
