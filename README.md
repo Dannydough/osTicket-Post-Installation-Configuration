@@ -22,28 +22,54 @@ This lab demonstrates the necessary changes I make to configure osTicket so it c
 
 1) After installing osTicket, it's time to configure it as a ticketing system. Keep in mind that the Admin and Agent panels have different configuration settings. To determine which panel you're using, check the top right corner of the osTicket interface. If it shows Agent Panel, you're in the Admin panel, and vice versa.
 
-**Agent Panel:
+*Agent Panel:
 
 <p>
 <img src="https://imgur.com/VT9lnZl.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
   
-**Admin Panel:
+*Admin Panel:
 
 <p>
 <img src="https://imgur.com/042hfd8.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
 
-The first step to take is to make a new role called Supreme Admin. For the purposes of this lab, I am intentionally creating a role that has every permission that can be granted. To create a new role, open the Admin panel enter the Agents Menu. Click on Roles and create the new role from there.
+"Creating the Supreme Admin Role"
+
+The first step is to create a new role called Supreme Admin. For this lab, I will create a role with all available permissions. To do so, open the Admin panel, navigate to the Agents menu, click on Roles, and create the new role from there.
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/EQnl5rh.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://imgur.com/xgna570.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
+
+  <p>
+<img src="https://imgur.com/dEHltzr.png" height="80%" width="80%" alt="Configuration Steps"/>
+</p>
+<p>
+
+  <p>
+<img src="https://imgur.com/4HJhL0E.png" height="80%" width="80%" alt="Configuration Steps"/>
+</p>
+<p>
+
+  <p>
+<img src="https://imgur.com/jO8MfHR.png" height="80%" width="80%" alt="Configuration Steps"/>
+</p>
+<p>
+
+  <p>
+<img src="https://imgur.com/UeDqYQh.png" height="80%" width="80%" alt="Configuration Steps"/>
+</p>
+<p>
+
+
+  
 Next, a new Department will be created for System Administrators. In the Admin panel, open the Agents menu and click on Departments to create a new Department within osTicket.
 </p>
 <br />
