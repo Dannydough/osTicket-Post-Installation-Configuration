@@ -92,12 +92,13 @@ This lab demonstrates the necessary changes I make to configure osTicket so it c
 </p>
 <br />
 
-<img src="https://imgur.com/dEHltzr.png" height="80%" width="80%" alt="Configuration Steps"/>
+*Leave everything default
+<img src="https://imgur.com/afmskYB.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
-*Give Supreme Admin Role all of the tasks permissions
+*This is the finished product for teams
   <p>
-<img src="https://imgur.com/4HJhL0E.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://imgur.com/LhFgNV3.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
   
