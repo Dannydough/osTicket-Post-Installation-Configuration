@@ -121,7 +121,7 @@ This lab demonstrates the necessary changes I make to configure osTicket so it c
 
 </p>
 <br />
-* Inputted "Full Name", "Full Email", & "Username"
+* Inputted "Full Name", "Full Email", & "Username" for Jane Doe
 <p>
 <img src="https://imgur.com/qqSZQlo.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
@@ -136,12 +136,34 @@ This lab demonstrates the necessary changes I make to configure osTicket so it c
 <img src="https://imgur.com/ltsbLNP.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
-  
-Service Level Agreements (SLAs) will have to be made in order to categorize tickets according to their level of impact. To make new SLAs, enter the Admin panel and open the Manage menu. Click on SLA and create any needed SLAs. In this case, SEV-A, B, and C have been created to categorize tickets that need to be resolved within 1 hour, 4 hours, and 8 hours respectively.
+*Inputted "Full Name", "Full Email", & "Username" for John Doe
+<p>
+<img src="https://imgur.com/ltsbLNP.png" height="80%" width="80%" alt="Configuration Steps"/>
+</p>
+<p>
+*Assigned "Support" & "View Only"
+<p>
+<img src="https://imgur.com/ltsbLNP.png" height="80%" width="80%" alt="Configuration Steps"/>
+</p>
+<p>
+
+"Configuring Users (Customers)"
+
+7) Navigate to Agent Panel -> Users -> Add New to configure users. For example, add Karen and Ken as customers.  
 </p>
 <br />
 
 <p>
+<img src="https://i.imgur.com/v3zTkfy.png" height="80%" width="80%" alt="Configuration Steps"/>
+</p>
+<p>
+
+  <p>
+<img src="https://i.imgur.com/v3zTkfy.png" height="80%" width="80%" alt="Configuration Steps"/>
+</p>
+<p>
+
+  <p>
 <img src="https://i.imgur.com/v3zTkfy.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
