@@ -218,7 +218,7 @@ Sev-C: Grace Period: 8 hours, Schedule: Business Hours
 <p>
   <p>
 
-  * Password Reset
+* Password Reset
   <p>
 <img src="https://imgur.com/YTDcEtr.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
