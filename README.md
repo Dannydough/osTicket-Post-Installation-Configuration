@@ -84,16 +84,23 @@ This lab demonstrates the necessary changes I make to configure osTicket so it c
 <img src="https://imgur.com/DdIrX3y.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
+  
+"Configuring Teams"
 
-A new Level II Support Team will have to be created to supplement the Level I Support Team already made within osTicket. To create a new Team, enter the Admin panel and open the Agents menu. Click on Teams and add any new teams that need to be created.
+4) Navigate to Admin Panel -> Agents -> Teams to create teams by pulling agents from different departments, such as forming an Online Banking team.
+
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/UnYyh3B.png" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="https://i.imgur.com/k0lElHH.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://imgur.com/dEHltzr.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
+*Give Supreme Admin Role all of the tasks permissions
+  <p>
+<img src="https://imgur.com/4HJhL0E.png" height="80%" width="80%" alt="Configuration Steps"/>
+</p>
+<p>
+  
 New agents will have to be created so they can take tickets that come to the queue. To create new agents, enter the Admin panel and open the Agents menu. Click on Add New Agent and create the account credentials for each new agent. In this case, Jane and John Doe are created.
 </p>
 <br />
