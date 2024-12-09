@@ -149,24 +149,20 @@ This lab demonstrates the necessary changes I make to configure osTicket so it c
 
 "Configuring Users (Customers)"
 
-7) Navigate to Agent Panel -> Users -> Add New to configure users. For example, add Karen and Ken as customers.  
+7) Navigate to Agent Panel -> Users -> Add New to configure users. For example, add Karen as customers.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/v3zTkfy.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://imgur.com/bb4LmTA.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
 
   <p>
-<img src="https://i.imgur.com/v3zTkfy.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://imgur.com/25zdGEe.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
 
-  <p>
-<img src="https://i.imgur.com/v3zTkfy.png" height="80%" width="80%" alt="Configuration Steps"/>
-</p>
-<p>
 Finally, Help Topics need to be created to help users select an appropriate category that describes their problem so that Agents get an idea of what problem is described in the ticket. To make a new Help Topic, enter the Admin panel and open the Manage menu. Click on Help Topics and click on Add New Help Topic. In this case, I have added the following in order to use later for when I create new tickets to resolve: Business Critical Outage, Personal Computer Issues, Equipment Reset, and Password Request.
 </p>
 <br />
