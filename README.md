@@ -38,7 +38,7 @@ This lab demonstrates the necessary changes I make to configure osTicket so it c
 
 "Creating the Supreme Admin Role"
 
-The first step is to create a new role called Supreme Admin. For this lab, I will create a role with all available permissions. To do so, open the Admin panel, navigate to the Agents menu, click on Roles, and create the new role from there.
+2) The second step is to create a new role called Supreme Admin. For this lab, I will create a role with all available permissions. To do so, open the Admin panel, navigate to the Agents menu, click on Roles, and create the new role from there.
 
 </p>
 <br />
@@ -68,16 +68,23 @@ The first step is to create a new role called Supreme Admin. For this lab, I wil
 </p>
 <p>
 
-
   
-Next, a new Department will be created for System Administrators. In the Admin panel, open the Agents menu and click on Departments to create a new Department within osTicket.
+"Configuring Departments (Ticket Visibility, Help Desk, SysAdmins, Networking)"
+
+3) Navigate to Admin Panel -> Agents -> Departments to configure departments such as SysAdmins, which will determine ticket visibility for different teams like Help Desk and Networking.
 </p>
 <br />
-
+*Leave everything default
 <p>
-<img src="https://i.imgur.com/d7WuRn8.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://imgur.com/VIuVWUh.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
+* Finished the SysAdmin part
+  <p>
+<img src="https://imgur.com/DdIrX3y.png" height="80%" width="80%" alt="Configuration Steps"/>
+</p>
+<p>
+
 A new Level II Support Team will have to be created to supplement the Level I Support Team already made within osTicket. To create a new Team, enter the Admin panel and open the Agents menu. Click on Teams and add any new teams that need to be created.
 </p>
 <br />
