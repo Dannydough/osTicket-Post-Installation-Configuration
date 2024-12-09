@@ -23,15 +23,13 @@ This lab demonstrates the necessary changes I make to configure osTicket so it c
 1) After installing osTicket, it's time to configure it as a ticketing system. Keep in mind that the Admin and Agent panels have different configuration settings. To determine which panel you're using, check the top right corner of the osTicket interface. If it shows Agent Panel, you're in the Admin panel, and vice versa.
 
 <p>
-  **Agent Panel**
+  - Agent Panel
 <img src="https://imgur.com/VT9lnZl.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
 
-
-
 <p>
-  **Admin Panel**
+  - Admin Panel
 <img src="https://imgur.com/042hfd8.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
