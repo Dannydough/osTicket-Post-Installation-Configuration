@@ -113,14 +113,30 @@ This lab demonstrates the necessary changes I make to configure osTicket so it c
 <img src="https://imgur.com/sPVvu6t.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
-New users will be created so they can create tickets so that the agents can receive and triage them. To create new users, enter the Agents panel and open the Users menu. Click on Add User and create the account credentials necessary for each new user. In this case, Karen and Ken have been created.
+
+
+"Configuring Agents (Workers)"
+
+6) Navigate to Admin Panel -> Agents -> Add New to configure agents. For example, add Jane to the SysAdmins department and John to the Support department.
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/pI1Cf3Q.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img src="https://imgur.com/qqSZQlo.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
+
+  <p>
+<img src="https://imgur.com/jABMfYE.png" height="80%" width="80%" alt="Configuration Steps"/>
+</p>
+<p>
+
+ <p>
+<img src="https://imgur.com/ltsbLNP.png" height="80%" width="80%" alt="Configuration Steps"/>
+</p>
+<p>
+  
 Service Level Agreements (SLAs) will have to be made in order to categorize tickets according to their level of impact. To make new SLAs, enter the Admin panel and open the Manage menu. Click on SLA and create any needed SLAs. In this case, SEV-A, B, and C have been created to categorize tickets that need to be resolved within 1 hour, 4 hours, and 8 hours respectively.
 </p>
 <br />
