@@ -189,6 +189,46 @@ Sev-C: Grace Period: 8 hours, Schedule: Business Hours
 </p>
 <p>
   <p>
+"Configuring Help Topics (For Ticket Creation)"
+
+9) Navigate to Admin Panel -> Manage -> Help Topics to set up categories for users to select when creating a ticket. Examples of help topics include:
+
+- Business Critical Outage
+- Personal Computer Issues
+- Equipment Request
+- Password Reset
+- Other
+</p>
+<br />
+
+* Business Critical Outage
+  <p>
+<img src="https://imgur.com/qwiJhDe.png" height="80%" width="80%" alt="Configuration Steps"/>
+</p>
+<p>
+  * Personal Computer Issues
+  <p>
+<img src="https://imgur.com/tBY0Cb5.png" height="80%" width="80%" alt="Configuration Steps"/>
+</p>
+<p>
+  * Equipment Request
+  <p>
+<img src="https://imgur.com/kjG1eOd.png" height="80%" width="80%" alt="Configuration Steps"/>
+</p>
+<p>
+  <p>
+
+  * Password Reset
+  <p>
+<img src="https://imgur.com/YTDcEtr.png" height="80%" width="80%" alt="Configuration Steps"/>
+</p>
+<p>
+  * Other
+  <p>
+<img src="https://imgur.com/pn9ONIK.png" height="80%" width="80%" alt="Configuration Steps"/>
+</p>
+<p>
+
 
 <h2>osTicket Configurations are Complete </h2>
 
