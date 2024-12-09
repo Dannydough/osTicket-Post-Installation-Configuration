@@ -163,9 +163,32 @@ This lab demonstrates the necessary changes I make to configure osTicket so it c
 </p>
 <p>
 
-Finally, Help Topics need to be created to help users select an appropriate category that describes their problem so that Agents get an idea of what problem is described in the ticket. To make a new Help Topic, enter the Admin panel and open the Manage menu. Click on Help Topics and click on Add New Help Topic. In this case, I have added the following in order to use later for when I create new tickets to resolve: Business Critical Outage, Personal Computer Issues, Equipment Reset, and Password Request.
+
+"Configuring SLA (Service Level Agreements)"
+
+8) Navigate to Admin Panel -> Manage -> SLA to configure Service Level Agreements. For example, create the following SLAs:
+
+Sev-A: Grace Period: 1 hour, Schedule: 24/7
+Sev-B: Grace Period: 4 hours, Schedule: 24/7
+Sev-C: Grace Period: 8 hours, Schedule: Business Hours
 </p>
 <br />
+* Sev-A
+  <p>
+<img src="https://imgur.com/moXSWgB.png" height="80%" width="80%" alt="Configuration Steps"/>
+</p>
+<p>
+  * Sev-B
+  <p>
+<img src="https://imgur.com/Ktp4DH5.png" height="80%" width="80%" alt="Configuration Steps"/>
+</p>
+<p>
+  * Sev-C
+  <p>
+<img src="https://imgur.com/PPsWNFB.png" height="80%" width="80%" alt="Configuration Steps"/>
+</p>
+<p>
+  <p>
 
 <h2>osTicket Configurations are Complete </h2>
 
