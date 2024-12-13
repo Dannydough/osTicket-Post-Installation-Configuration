@@ -173,7 +173,7 @@ This lab demonstrates the necessary changes I make to configure osTicket so it c
 - Sev-C: Grace Period: 8 hours, Schedule: Business Hours
 </p>
 <br />
-- *Sev-A*
+*Sev-A*
   <p>
 <img src="https://imgur.com/moXSWgB.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
@@ -189,7 +189,8 @@ This lab demonstrates the necessary changes I make to configure osTicket so it c
 </p>
 <p>
   <p>
-**Configuring Help Topics (For Ticket Creation)**
+    
+  **Configuring Help Topics (For Ticket Creation)**
 
 9) Navigate to Admin Panel -> Manage -> Help Topics to set up categories for users to select when creating a ticket. Examples of help topics include:
 
@@ -211,7 +212,7 @@ This lab demonstrates the necessary changes I make to configure osTicket so it c
 <img src="https://imgur.com/tBY0Cb5.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
-- Equipment Request
+  - Equipment Request
   <p>
 <img src="https://imgur.com/kjG1eOd.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
