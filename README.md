@@ -200,7 +200,8 @@ This lab demonstrates the necessary changes I make to configure osTicket so it c
 - Password Reset
 - Other
 
-- Type: Business Critical Outage
+
+--Type: Business Critical Outage
   <p>
 <img src="https://imgur.com/qwiJhDe.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
