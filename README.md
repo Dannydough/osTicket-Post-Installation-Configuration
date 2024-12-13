@@ -121,7 +121,7 @@ This lab demonstrates the necessary changes I make to configure osTicket so it c
 
 </p>
 <br />
-- Inputted "Full Name", "Full Email", & "Username" for Jane Doe
+- Insert "Full Name", "Full Email", & "Username" for Jane Doe
 <p>
 <img src="https://imgur.com/qqSZQlo.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
@@ -136,7 +136,7 @@ This lab demonstrates the necessary changes I make to configure osTicket so it c
 <img src="https://imgur.com/ltsbLNP.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
-- Inputted "Full Name", "Full Email", & "Username" for John Doe
+- Insert "Full Name", "Full Email", & "Username" for John Doe
 <p>
 <img src="https://imgur.com/ltsbLNP.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
@@ -202,28 +202,28 @@ This lab demonstrates the necessary changes I make to configure osTicket so it c
 </p>
 <br />
 
-⌨️ Business Critical Outage
+- Type: Business Critical Outage
   <p>
 <img src="https://imgur.com/qwiJhDe.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
-⌨️ Personal Computer Issues
+- Type: Personal Computer Issues
   <p>
 <img src="https://imgur.com/tBY0Cb5.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
-⌨️ Equipment Request
+- Type: Equipment Request
   <p>
 <img src="https://imgur.com/kjG1eOd.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
   <p>
-⌨️ Password Reset
+- Type: Password Reset
   <p>
 <img src="https://imgur.com/YTDcEtr.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
-⌨️ Other
+- Type: Other
   <p>
 <img src="https://imgur.com/pn9ONIK.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
