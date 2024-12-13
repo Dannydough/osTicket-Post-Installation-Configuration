@@ -199,8 +199,6 @@ This lab demonstrates the necessary changes I make to configure osTicket so it c
 - Equipment Request
 - Password Reset
 - Other
-</p>
-<br />
 
 - Type: Business Critical Outage
   <p>
