@@ -173,17 +173,17 @@ This lab demonstrates the necessary changes I make to configure osTicket so it c
 - Sev-C: Grace Period: 8 hours, Schedule: Business Hours
 </p>
 <br />
-*Sev-A*
+⬇️ Sev-A ⬇️
   <p>
 <img src="https://imgur.com/moXSWgB.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
-- *Sev-B*
+⬇️ Sev-B ⬇️
   <p>
 <img src="https://imgur.com/Ktp4DH5.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
-- *Sev-C*
+⬇️ Sev-C ⬇️
   <p>
 <img src="https://imgur.com/PPsWNFB.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
