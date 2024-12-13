@@ -38,7 +38,7 @@ This lab demonstrates the necessary changes I make to configure osTicket so it c
 
 **Creating the Supreme Admin Role**
 
-2) The second step is to create a new role called Supreme Admin. For this lab, I will create a role with all available permissions. To do so, open the Admin panel, navigate to the Agents menu, click on Roles, and create the new role from there.
+2.) The second step is to create a new role called Supreme Admin. For this lab, I will create a role with all available permissions. To do so, open the Admin panel, navigate to the Agents menu, click on Roles, and create the new role from there.
 
 </p>
 <br />
@@ -71,7 +71,7 @@ This lab demonstrates the necessary changes I make to configure osTicket so it c
   
 **Configuring Departments (Ticket Visibility, Help Desk, SysAdmins, Networking)**
 
-3) Navigate to Admin Panel -> Agents -> Departments to configure departments such as SysAdmins, which will determine ticket visibility for different teams like Help Desk and Networking.
+3.) Navigate to Admin Panel -> Agents -> Departments to configure departments such as SysAdmins, which will determine ticket visibility for different teams like Help Desk and Networking.
 </p>
 <br />
 - Leave everything default
@@ -87,7 +87,7 @@ This lab demonstrates the necessary changes I make to configure osTicket so it c
   
 **Configuring Teams**
 
-4) Navigate to Admin Panel -> Agents -> Teams to create teams by pulling agents from different departments, such as forming an Online Banking team.
+4.) Navigate to Admin Panel -> Agents -> Teams to create teams by pulling agents from different departments, such as forming an Online Banking team.
 
 </p>
 <br />
@@ -104,7 +104,7 @@ This lab demonstrates the necessary changes I make to configure osTicket so it c
   
 **Allowing Ticket Creation by Registered Users Only**
 
-5) Navigate to Admin Panel -> Settings -> User Settings and UNCHECK the option that allows unregistered users to create tickets. This ensures that registration and login are required before users can submit tickets.
+5.) Navigate to Admin Panel -> Settings -> User Settings and UNCHECK the option that allows unregistered users to create tickets. This ensures that registration and login are required before users can submit tickets.
    
 </p>
 <br />
@@ -117,7 +117,7 @@ This lab demonstrates the necessary changes I make to configure osTicket so it c
 
 **Configuring Agents (Workers)**
 
-6) Navigate to Admin Panel -> Agents -> Add New to configure agents. For example, add Jane to the SysAdmins department and John to the Support department.
+6.) Navigate to Admin Panel -> Agents -> Add New to configure agents. For example, add Jane to the SysAdmins department and John to the Support department.
 
 </p>
 <br />
@@ -149,7 +149,7 @@ This lab demonstrates the necessary changes I make to configure osTicket so it c
 
 **Configuring Users (Customers)**
 
-7) Navigate to Agent Panel -> Users -> Add New to configure users. For example, add Karen as customers.
+7.) Navigate to Agent Panel -> Users -> Add New to configure users. For example, add Karen as customers.
 </p>
 <br />
 
@@ -166,7 +166,7 @@ This lab demonstrates the necessary changes I make to configure osTicket so it c
 
 **Configuring SLA (Service Level Agreements)**
 
-8) Navigate to Admin Panel -> Manage -> SLA to configure Service Level Agreements. For example, create the following SLAs:
+8.) Navigate to Admin Panel -> Manage -> SLA to configure Service Level Agreements. For example, create the following SLAs:
 
 - Sev-A: Grace Period: 1 hour, Schedule: 24/7
 - Sev-B: Grace Period: 4 hours, Schedule: 24/7
@@ -192,7 +192,7 @@ This lab demonstrates the necessary changes I make to configure osTicket so it c
     
   **Configuring Help Topics (For Ticket Creation)**
 
-9) Navigate to Admin Panel -> Manage -> Help Topics to set up categories for users to select when creating a ticket. Examples of help topics include:
+9.) Navigate to Admin Panel -> Manage -> Help Topics to set up categories for users to select when creating a ticket. Examples of help topics include:
 
 - Business Critical Outage
 - Personal Computer Issues
