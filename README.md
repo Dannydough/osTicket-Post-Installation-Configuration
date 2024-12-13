@@ -202,28 +202,28 @@ This lab demonstrates the necessary changes I make to configure osTicket so it c
 </p>
 <br />
 
-- Business Critical Outage
+⌨️ Business Critical Outage
   <p>
 <img src="https://imgur.com/qwiJhDe.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
-- Personal Computer Issues
+⌨️ Personal Computer Issues
   <p>
 <img src="https://imgur.com/tBY0Cb5.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
-  - Equipment Request
+⌨️ Equipment Request
   <p>
 <img src="https://imgur.com/kjG1eOd.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
   <p>
-- Password Reset
+⌨️ Password Reset
   <p>
 <img src="https://imgur.com/YTDcEtr.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
 <p>
-- Other
+⌨️ Other
   <p>
 <img src="https://imgur.com/pn9ONIK.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
